@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Legnafonatas
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning apll from zero 
+- 🌱 I’m currently learning all from zero (noob)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me hannickco@gmail.com
 
 <!---
 Legnafonatas/Legnafonatas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
